@@ -1,4 +1,4 @@
 # nodejs-LearnYouNode
 
-Solutions for learnyounode module 
-reference http://nodeschool.io/
+Solutions for learnyounode module. 
+Reference http://nodeschool.io/
